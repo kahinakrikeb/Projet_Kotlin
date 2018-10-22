@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Projet_Kotlin</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="text_message_hint">Soirée...</string>
+
+
+
+    <string name="title_activity_confirmation">Confirmation</string>
+    <string name="confirm_header">Voulez-vous vraiment envoyer le message :</string>
+
+
+    <string name="btn_previous">Précédent</string>
+    <string name="btn_new">Nouveau</string>
+    <string name="btn_next">Suivant</string>
+
+    <string name="btn_confirm">Précédent</string>
+    <string name="btn_edit">Nouveau</string>
+    <string name="btn_cancel">Suivant</string>
+</resources>
